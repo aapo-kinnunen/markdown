@@ -2,7 +2,7 @@
 
 ----
 
-- _git add_ -lisää tiedoston gitin huomioon.
+- ***git add*** -lisää tiedoston gitin huomioon.
 
 - _git committiin_ -sisälää indeksin ja viimeisimmät muutokset.
 
