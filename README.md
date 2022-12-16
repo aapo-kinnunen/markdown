@@ -1,8 +1,8 @@
 ### Ohjeet
 
-- git add lisää tiedoston gitin huomioon
+- _git add_ lisää tiedoston gitin huomioon
 
-- git committiin sisältyy indeksi ja viimeisimmät muutokset
+- _git committiin_ sisältyy indeksi ja viimeisimmät muutokset
 
 - git status kertoo gitin nykyisen tilanteen ja mitä tiedostoja git ei huomioi
 
