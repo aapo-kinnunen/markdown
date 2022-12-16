@@ -1,4 +1,4 @@
-# OHJEET
+## OHJEET
 
 - git add lisää tiedoston gitin huomioon
 
