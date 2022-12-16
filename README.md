@@ -16,7 +16,8 @@
 
 - ``git branch``
 > *List, create, or delete branches*
-https://git-scm.com/
+
+Ylemmällä ole tieto on otettu -https://git-scm.com/
 
 ----
 
