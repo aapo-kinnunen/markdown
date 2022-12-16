@@ -26,4 +26,4 @@ Ylemmällä ole tieto on otettu - https://git-scm.com/
 
 Ylemmällä ole tieto on otettu - https://docs.github.com/en/get-started/quickstart/fork-a-repo
 
-/image/https://github.com/aapo-kinnunen/markdown/blob/main/gitti.png
+![image](https://user-images.githubusercontent.com/120164183/208055400-38fe3959-e090-466a-8a75-11e264544926.png)
