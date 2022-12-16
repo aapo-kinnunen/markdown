@@ -8,7 +8,7 @@
 
 - ``git status`` -kertoo gitin nykyisen tilanteen ja mitä tiedostoja git ei huomioi.
 
-- ``git push`` -lähettää paikalliselta työhakemistosi githubiin.
+- ``git push`` -tällä voit lähettää paikallisia tietoja githubiin.
 
 - ``git branch`` -kertoo nykysein haarasi.
 
