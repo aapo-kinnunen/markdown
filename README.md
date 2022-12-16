@@ -17,6 +17,9 @@
 - ``git branch``
 > *"List, create, or delete branches"*
 
+- ``git log``
+> *"List commits that are reachable by following the parent links from the given commit(s), but exclude commits that are reachable from the one(s) given with a ^ in front of them. The output is given in reverse chronological order by default."*
+
 Ylemmällä ole tieto on otettu - https://git-scm.com/
 
 ----
