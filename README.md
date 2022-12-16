@@ -3,17 +3,19 @@
 ----
 
 - ``git add``
-> *The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit.*
+> *This command updates the index using the current content found in the working tree, to prepare the content staged for the next commit. It typically adds the current content of existing paths as a whole, but with some options it can also be used to add content with only part of the changes made to the working tree files applied, or remove paths that do not exist in the working tree anymore.*
 
-- ``git committiin``
-> *Create a new commit containing the current contents of the index and the given log message describing the changes. The new commit is a direct child of HEAD, usually the tip of the current branch, and the branch is updated to point to it (unless no branch is associated with the working tree, in which case HEAD is "detached" as described in git-checkout.*
+- ``git commit``
+> *Create a new commit containing the current contents of the index and the given log message describing the changes. The new commit is a direct child of HEAD, usually the tip of the current branch, and the branch is updated to point to it.*
 
-- ``git status`` -kertoo gitin nykyisen tilanteen ja mitä tiedostoja git ei huomioi.
+- ``git status``
+> *Displays paths that have differences between the index file and the current HEAD commit, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git*
 
-- ``git push`` -tällä voit lähettää paikallisia tietoja githubiin.
+- ``git push``
+> *Updates remote refs using local refs, while sending objects necessary to complete the given refs.*
 
-- ``git branch`` -kertoo nykysein haarasi.
-
+- ``git branch``
+> *List, create, or delete branches*
 ----
 
 - Forkkaaminen
