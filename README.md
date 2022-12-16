@@ -25,3 +25,5 @@ Ylemmällä ole tieto on otettu - https://git-scm.com/
 > *"A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository." "When creating your public repository from a fork of someone's project, make sure to include a license file that determines how you want your project to be shared with others."* 
 
 Ylemmällä ole tieto on otettu - https://docs.github.com/en/get-started/quickstart/fork-a-repo
+
+(/image/https://github.com/aapo-kinnunen/markdown/blob/main/gitti.png)
