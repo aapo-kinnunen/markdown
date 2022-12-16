@@ -1,4 +1,4 @@
-# OHJEET h3
+### Ohjeet
 
 - git add lisää tiedoston gitin huomioon
 
