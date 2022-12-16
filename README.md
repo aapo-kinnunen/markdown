@@ -2,7 +2,7 @@
 
 ----
 
-- `git add` -lisää tiedoston gitin huomioon.
+- `ruby git add` -lisää tiedoston gitin huomioon.
 
 - ***git committiin*** -sisälää indeksin ja viimeisimmät muutokset.
 
