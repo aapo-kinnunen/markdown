@@ -4,7 +4,8 @@
 
 - _git committiin_ -sisälää indeksin ja viimeisimmät muutokset.
 
-- _git status_ -kertoo gitin nykyisen tilanteen ja mitä tiedostoja git ei huomioi.
+- _git status_ 
+- -kertoo gitin nykyisen tilanteen ja mitä tiedostoja git ei huomioi.
 
 - _git push_ -voit lähettää paikalliselta työhakemistolta githubiin.
 
