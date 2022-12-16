@@ -1,4 +1,6 @@
-### Ohjeet
+### **Ohjeet**
+
+----
 
 - _git add_ -lisää tiedoston gitin huomioon.
 
